@@ -9,6 +9,8 @@ Benchmarks
 
 -  Long Range Graph Benchmark [Paper](https://arxiv.org/pdf/2206.08164.pdf) [Code](https://github.com/vijaydwivedi75/lrgb)
 
+- K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions [Paper](https://openreview.net/pdf?id=W_bsDmzwaZ7) [Code](https://github.com/kaist-avelab/K-Radar)
+
 Papers
 
 **Expressive power of GNN**
